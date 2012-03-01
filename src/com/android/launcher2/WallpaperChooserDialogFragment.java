@@ -198,8 +198,8 @@ public class WallpaperChooserDialogFragment extends DialogFragment implements
     }
 
     private void findWallpapers() {
-        mThumbs = new ArrayList<Integer>(24);
-        mImages = new ArrayList<Integer>(24);
+        mThumbs = new ArrayList<Integer>(48);
+        mImages = new ArrayList<Integer>(48);
 
         final Resources resources = getResources();
         // Context.getPackageName() may return the "original" package name,

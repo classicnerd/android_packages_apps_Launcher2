@@ -18,15 +18,29 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_architecture</item>
+	<item>wallpaper_blue_wonder</item>
         <item>wallpaper_bubblegum</item>
         <item>wallpaper_canyon</item>
         <item>wallpaper_chroma</item>
+        <item>wallpaper_color_fun</item>
+        <item>wallpaper_colornerd</item>
+        <item>wallpaper_droid_dna</item>
+        <item>wallpaper_droid_dna2</item>
+        <item>wallpaper_empowered</item>
         <item>wallpaper_escape</item>
         <item>wallpaper_fidelity</item>
         <item>wallpaper_flora</item>
+        <item>wallpaper_hp_classicnerd</item>
+        <item>wallpaper_hp_droid_powers</item>
         <item>wallpaper_kepler</item>
         <item>wallpaper_leaf</item>
+        <item>wallpaper_nerd_power</item>
         <item>wallpaper_noir</item>
         <item>wallpaper_outofthebox</item>
+        <item>wallpaper_papa_droid</item>
+        <item>wallpaper_phase_droid_hp</item>
+	<item>wallpaper_urban_skies</item>
+	<item>wallpaper_joker</item>
+	<item>wallpaper_cn_desert</item>
     </string-array>
 </resources>
