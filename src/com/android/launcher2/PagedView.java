@@ -223,7 +223,7 @@ public abstract class PagedView extends ViewGroup {
             a.getDimensionPixelSize(R.styleable.PagedView_scrollIndicatorPaddingRight, 0);
         a.recycle();
 
-        setHapticFeedbackEnabled(false);
+        setHapticFeedbackEnabled(true);
         init();
     }
 
